@@ -6,7 +6,7 @@
 ## 1. Requirements
 JDK 1.8
 
-WildFly 11.0.0.
+WildFly 10.1.0.
 
 ## 2. Functions
 
